@@ -1,0 +1,2 @@
+script:
+  - "curl -X POST --fail -F token=glptt-16f255aefb38bf85e0be1c2764f490477ef12228 -F ref=REF_NAME https://gitlab.com/api/v4/projects/55299492/trigger/pipeline"
